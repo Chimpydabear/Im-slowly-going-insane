@@ -1,0 +1,7 @@
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Projects\database-comparison\StudentCourses\ConsoleApp\obj\Debug\ConsoleApp.pdb
